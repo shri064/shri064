@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/shrihari-waykule"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:shriwaykule64@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/shri064"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://leetcode.com/u/shri__64"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
 ---
@@ -48,7 +48,6 @@
 
 ### 🔹 E-Commerce Microservices Backend
 **Tech:** Spring Boot, Netflix Eureka, OpenFeign, API Gateway, Actuator  
-🔗 [GitHub Repo](https://github.com/shri064/ecommerce-microservices)
 
 - Developed **User, Order & Payment microservices**
 - Implemented **service discovery** using Netflix Eureka
@@ -60,7 +59,6 @@
 
 ### 🔹 Email Reply Generator
 **Tech:** React.js, Spring Boot, REST APIs  
-🔗 [GitHub Repo](https://github.com/shri064/email-reply-generator)
 
 - Built a full-stack app to generate **context-aware email replies**
 - Provided tone options: **Simple, Professional, Casual**
@@ -95,7 +93,6 @@
 - 🎓 **Java Full Stack Development** – QSpiders, Deccan
 - 🧩 Solved **400+ problems on LeetCode**
 - 🏆 2nd Rank in a **college-level hackathon**
-- ⭐ Strong foundation in **Data Structures & Algorithms**
 
 ---
 
@@ -106,14 +103,6 @@
 - 📚 Learning system design & backend optimizations
 - 💡 Exploring scalable architecture patterns
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shri064&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri064&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
